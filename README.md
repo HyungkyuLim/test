@@ -1,5 +1,5 @@
 # test
 
-#node.js 
+#python 
 
-console.log("Hello World");
+print ("hello world")
