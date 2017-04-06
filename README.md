@@ -1,7 +1,5 @@
 # test
 
-#python
+#node.js 
 
-print ("hello world") 
-answer = 42
-print "The answer is: " + str(answer)
+console.log("Hello World");
